@@ -3,7 +3,7 @@ title: "Penantian di Ladang Harapan"
 datePublished: Fri Jun 13 2025 03:21:38 GMT+0000 (Coordinated Universal Time)
 cuid: cmbu8r0x4000d02ldfr34c0bo
 slug: penantian-di-ladang-harapan
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749784681433/53bdf6cc-a32c-46c8-bec1-393fb896d683.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mWdpieXrE74/upload/d0fb1172cbff4d31b11ef04201816641.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1749784881164/49b26ea2-1711-4ea9-901f-773654ce835f.jpeg
 tags: prosa-liris, kata-hati, literasi
 
