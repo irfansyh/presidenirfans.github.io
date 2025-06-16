@@ -1,5 +1,5 @@
 ---
-title: "Penantian di Ladang Harapan"
+title: "Prosa: Penantian di Ladang Harapan"
 datePublished: Fri Jun 13 2025 03:21:38 GMT+0000 (Coordinated Universal Time)
 cuid: cmbu8r0x4000d02ldfr34c0bo
 slug: penantian-di-ladang-harapan
