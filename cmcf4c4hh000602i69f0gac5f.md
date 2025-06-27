@@ -1,8 +1,8 @@
 ---
-title: "Nyala yang Kau Padamkan Sendiri"
+title: "Prosa: Nyala yang Kau Padamkan Sendiri"
 datePublished: Fri Jun 27 2025 18:01:14 GMT+0000 (Coordinated Universal Time)
 cuid: cmcf4c4hh000602i69f0gac5f
-slug: nyala-yang-kau-padamkan-sendiri
+slug: prosa-nyala-yang-kau-padamkan-sendiri
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/i3wHdW8kq00/upload/971b00fb026a1d05b825eb96bafec733.jpeg
 tags: puisi, prosa
 
